@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Nargis API Integration</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+        h1, h2 {
+            color: #1877F2; /* Facebook Blue */
+        }
+        a {
+            color: #1877F2;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for Nargis - API Integration</h1>
+        <p><strong>Last Updated:</strong> September 17, 2026</p>
+
+        <h2>1. Introduction</h2>
+        <p>Nargis - API Integration is an internal AI agent designed exclusively to assist our internal Pay-Per-Click (PPC) team in managing advertisements and analyzing campaign performance via the Meta Ads API. This Privacy Policy outlines our strict data handling practices.</p>
+
+        <h2>2. Information We Do Not Collect (No PII)</h2>
+        <p><strong>We do not collect, store, or process any Personally Identifiable Information (PII).</strong></p>
+        <p>Because Nargis is an internal AI assistant focused purely on ad metrics, it does not request, scrape, or store public profiles, user emails, consumer data, or any other personal data. The application only utilizes standard Meta authentication tokens required to securely access aggregate ad account performance data (such as impressions, clicks, and spend).</p>
+
+        <h2>3. How We Use Data</h2>
+        <p>Any data accessed by Nargis - API Integration is limited strictly to:</p>
+        <ul>
+            <li>Aggregated advertising performance metrics and campaign structures.</li>
+            <li>Internal reporting, ad optimization, and AI-assisted analysis for our internal PPC team.</li>
+        </ul>
+
+        <h2>4. Data Sharing and Disclosure</h2>
+        <p>This is a strictly internal tool. No data (advertising metrics or otherwise) is ever sold, traded, rented, or shared with third parties.</p>
+
+        <h2>5. Data Deletion Instructions</h2>
+        <p>Even though Nargis - API Integration does not store any PII, Meta requires us to provide standard Data Deletion Instructions. If an internal team member wishes to revoke the app's access token and remove its connection to their Meta account, they can do so by following these steps:</p>
+        <ol>
+            <li>Go to your Facebook Account's <strong>Settings & Privacy</strong>.</li>
+            <li>Click <strong>Settings</strong>.</li>
+            <li>Scroll down and click <strong>Apps and Websites</strong>.</li>
+            <li>Find and click on <strong>Nargis - API Integration</strong>.</li>
+            <li>Click the <strong>Remove</strong> button.</li>
+        </ol>
+
+        <h2>6. Contact Us</h2>
+        <p>If you have any questions or concerns regarding this policy or the internal use of this API integration, please contact our administrator at:</p>
+        <p><strong>Email:</strong> <a href="mailto:ishank.naik19@gmail.com">ishank.naik19@gmail.com</a></p>
+    </div>
+</body>
+</html>
